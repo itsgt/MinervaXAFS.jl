@@ -3,6 +3,11 @@ uuid = "0c4a189c-6bb9-4b91-a74d-78e8944992a9"
 authors = ["itsgt <islagle3@gatech.edu> and contributors"]
 version = "0.1.0"
 
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
+
 [compat]
 julia = "1.8"
 
